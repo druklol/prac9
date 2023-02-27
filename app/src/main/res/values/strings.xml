@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyInfo</string>
+    <string name="MyInfo">Приложение разработал студент группы ПР-23,Фамилия Имя</string>
+    <string name="firstButton">1</string>
+    <string name="secondButton">2</string>
+    <string name="threeButton">3</string>
+</resources>
